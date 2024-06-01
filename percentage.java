@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-    public class java2 {
+    public class percentage {
     
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
